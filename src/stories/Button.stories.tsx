@@ -44,7 +44,7 @@ export const Blue = Template.bind({});
 Blue.args = {
   size: 'large',
   label: 'Button',
-  backgroundColor: 'yellow',  
+  backgroundColor: 'red',  
 };
 Blue.argTypes =  {
   backgroundColor:
